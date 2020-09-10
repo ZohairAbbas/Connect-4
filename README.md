@@ -11,7 +11,7 @@ git clone https://github.com/ZohairAbbas/Connect-4--Python.git
 ```
 2- Enter the folder using
 ```
-cd 
+cd Connect-4--Python
 ```
 3- Enter the following command to launch the game
 ``` 
