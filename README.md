@@ -1,2 +1,20 @@
 # Connect-4--Python
-Connect 4 game in Python using Pygame
+Connect 4 game in :snake: Python using Pygame
+
+A simple Connect 4 game implemented with AI using Min-Max Algorithm
+
+### How to use?
+
+1- Clone the repo using 
+```
+git clone 
+```
+2- Enter the folder using
+```
+cd 
+```
+3- Enter the following command to launch the game
+``` 
+python connect.py
+```
+
