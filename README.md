@@ -7,7 +7,7 @@ A simple Connect 4 game implemented with AI using Min-Max Algorithm
 
 1- Clone the repo using 
 ```
-git clone 
+git clone https://github.com/ZohairAbbas/Connect-4--Python.git
 ```
 2- Enter the folder using
 ```
