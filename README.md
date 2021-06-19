@@ -13,9 +13,13 @@ git clone https://github.com/ZohairAbbas/Connect-4--Python.git
 ```
 cd Connect-4--Python
 ```
-3- Enter the following command to launch the game
+3- If you wanna play this game in 2 Players mode, type the following command
 ``` 
-python connect.py
+python connect4_Double_Player.py
+```
+Or play this game with AI using this
+``` 
+python connect4_With_AI.py
 ```
 
 Inspired and Originally build by @KeithGalli
